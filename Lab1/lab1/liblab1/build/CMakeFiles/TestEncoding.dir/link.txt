@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TestEncoding.dir/encode.cc.o CMakeFiles/TestEncoding.dir/coding.cc.o CMakeFiles/TestEncoding.dir/list.cc.o CMakeFiles/TestEncoding.dir/ltest.cc.o  -o TestEncoding 

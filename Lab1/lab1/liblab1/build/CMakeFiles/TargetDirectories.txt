@@ -1,0 +1,3 @@
+/home/elias/Documents/C++/lab1/lab1/liblab1/build/CMakeFiles/rebuild_cache.dir
+/home/elias/Documents/C++/lab1/lab1/liblab1/build/CMakeFiles/TestEncoding.dir
+/home/elias/Documents/C++/lab1/lab1/liblab1/build/CMakeFiles/edit_cache.dir
